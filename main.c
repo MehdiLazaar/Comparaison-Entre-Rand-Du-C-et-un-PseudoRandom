@@ -1,5 +1,5 @@
 /**
-* El Mahdi Lazaar
+* Mehdi Lazaar
 */
 #include <stdio.h>
 #include <stdlib.h>
